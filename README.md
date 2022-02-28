@@ -2,11 +2,10 @@
 + WHAT'S THE WEATHER LIKE?
 ```
 
-    Whether financial, political, or social, data's true power lies in its ability to answer questions definitively. 
-    "What's the weather like as we approach the equator?" was the question need Phython requests, APIs, 
-    and JSON traversals to answer. 
+    Whether financial, political, or social, data's true power lies in its ability to answer questions 
+    definitively. 
 
-    Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like 
+    Python requests, APIs, and JSON traversals are languages used to answer a fundamental question: "What's the weather like 
     as we approach the equator?"
 
 ```diff
